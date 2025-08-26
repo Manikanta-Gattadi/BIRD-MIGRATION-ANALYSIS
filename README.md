@@ -104,3 +104,6 @@ Bird trajectories displayed on a geographical map using Cartopy.
 
 ## License
 This project is released under the MIT License.
+
+✨ Author: Manikanta Gattadi
+Made with ❤️
