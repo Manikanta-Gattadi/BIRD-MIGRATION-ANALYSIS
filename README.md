@@ -35,31 +35,26 @@ This project focuses on analyzing the migration patterns of birds using GPS trac
 ## Analysis & Visualizations
 ### 1. Bird Trajectories  
 Plots the movement paths of all tracked birds based on latitude and longitude.  
-![Bird Trajectories](screenshots/Screenshot201.png)
 
 ---
 
 ### 2. Speed Distribution  
 Histogram of Eric's 2D speed distribution.  
-![Speed Histogram](screenshots/Screenshot202.png)
 
 ---
 
 ### 3. Elapsed Time  
 Elapsed time progression for Eric's migration.  
-![Elapsed Time](screenshots/Screenshot203.png)
 
 ---
 
 ### 4. Daily Mean Speed  
 Plots the mean daily speed of Eric to observe behavioral patterns.  
-![Daily Mean Speed](screenshots/Screenshot204.png)
 
 ---
 
 ### 5. Migration Map  
 Bird trajectories displayed on a geographical map using Cartopy.  
-![Migration Map](screenshots/Screenshot205.png)
 
 ---
 
@@ -94,6 +89,8 @@ Bird trajectories displayed on a geographical map using Cartopy.
 - Create animated migration timelines.
 
 ---
+
+#Output
 
 ## License
 This project is released under the MIT License.
