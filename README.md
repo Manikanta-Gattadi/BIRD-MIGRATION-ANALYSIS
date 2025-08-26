@@ -90,16 +90,13 @@ Bird trajectories displayed on a geographical map using Cartopy.
 
 ---
 
-#Output
-[
+## Output
 
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8e625e74-897f-4ac3-bfe7-09753e9e06b1" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/b13b713f-e3ce-4ee7-bb5d-cb59e6bc0f70" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/af68d852-a71b-4b76-a22b-8f6562419da7" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/cedf27ec-9a10-4e10-b65b-260cdac2984f" />
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/52815725-53c4-42ec-a529-7496b869d126" />
-
-](url)
 
 ## License
 This project is released under the MIT License.
