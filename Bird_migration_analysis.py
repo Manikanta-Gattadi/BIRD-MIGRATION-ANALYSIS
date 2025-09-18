@@ -63,3 +63,4 @@ for name in bird_names:
     ax.plot(birddata.longitude[ix], birddata.latitude[ix], '.', transform=ccrs.Geodetic(), label=name)
 plt.legend(loc="upper left")
 plt.show()
+
