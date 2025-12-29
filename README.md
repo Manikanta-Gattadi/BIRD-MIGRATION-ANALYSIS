@@ -8,7 +8,7 @@
 ---
 
 ## Project Overview
-This project focuses on analyzing the migration patterns of birds using GPS tracking data. It includes trajectory visualization, speed analysis, time-based movement trends, and geographic mapping of bird paths using Python.
+This project focuses on analyzing the migration patterns of birds using GPS tracking data. It includes trajectory visualization, speed analysis, time-based movement trends, and geographic mapping of bird paths using python.
 
 ---
 
