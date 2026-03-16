@@ -157,6 +157,8 @@ python Bird_migration_analysis.py
 -   Geographic data analysis
 -   Animal behavior research
 
+## output
+
 ------------------------------------------------------------------------
 
 ## 📈 Future Improvements
