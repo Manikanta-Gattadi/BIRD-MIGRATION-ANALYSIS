@@ -158,6 +158,9 @@ python Bird_migration_analysis.py
 -   Animal behavior research
 
 ## output
+<img width="1098" height="646" alt="Image" src="https://github.com/user-attachments/assets/f381de4c-7b8a-4f17-a478-c53cb897b863" />
+<img width="1092" height="608" alt="Image" src="https://github.com/user-attachments/assets/b729b63f-97ec-447d-8751-cddcf8e58c80" />
+<img width="1094" height="611" alt="Image" src="https://github.com/user-attachments/assets/59e9bf3e-a716-4597-a7e4-be906b1a8e6c" />
 
 ------------------------------------------------------------------------
 
